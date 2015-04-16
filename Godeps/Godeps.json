@@ -1,6 +1,6 @@
 {
 	"ImportPath": "github.com/cloudfoundry-community/cf-go-client-example",
-	"GoVersion": "go1.3.3",
+	"GoVersion": "go1.4",
 	"Deps": [
 		{
 			"ImportPath": "github.com/boj/redistore",
@@ -9,8 +9,8 @@
 		},
 		{
 			"ImportPath": "github.com/codegangsta/inject",
-			"Comment": "v1.0-rc1-4-g4b81725",
-			"Rev": "4b8172520a03fa190f427bbd284db01b459bfce7"
+			"Comment": "v1.0-rc1-10-g33e0aa1",
+			"Rev": "33e0aa1cb7c019ccc3fbe049a8262a6403d30504"
 		},
 		{
 			"ImportPath": "github.com/garyburd/redigo/redis",
@@ -18,8 +18,8 @@
 		},
 		{
 			"ImportPath": "github.com/go-martini/martini",
-			"Comment": "v1.0-39-g42b0b68",
-			"Rev": "42b0b68fb383aac4f72331d0bd0948001b9be080"
+			"Comment": "v1.0-115-g8412a65",
+			"Rev": "8412a652ddae77553a9442708a527d0e616939a3"
 		},
 		{
 			"ImportPath": "github.com/golang/oauth2",
